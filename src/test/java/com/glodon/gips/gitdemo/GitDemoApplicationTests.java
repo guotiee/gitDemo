@@ -47,4 +47,9 @@ class gitDemoApplicationTests {
                 && !result.contains("5001") && !result.contains("10000") && result.contains("10001"));
 
     }
+
+    @Test
+    void testEmptyList(){
+        orgSyncService.getDiffer(null, null);
+    }
 }
