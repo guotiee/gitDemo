@@ -34,3 +34,4 @@
       5.3、feature分支
       5.4、hotFix分支
   
+updateInDevelop
