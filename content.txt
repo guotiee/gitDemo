@@ -1,2 +1,6 @@
 commint 1 on develop
+<<<<<<< HEAD
 commit 2 on develop
+=======
+commit A on branch feature/feature_something 
+>>>>>>> fix conflict on file content.txt
